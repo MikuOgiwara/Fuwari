@@ -13,4 +13,4 @@ lang: 'en'
 # Hi i try to do something 
 
 
-Do you like rhythme game ?  
+Do you like rhythm game ?  

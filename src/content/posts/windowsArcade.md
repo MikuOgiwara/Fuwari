@@ -29,13 +29,13 @@ I don't provide any game links. Dump your own data. I'm not responsible for what
     - [Allow connection without password](#allow-connection-without-password)
     - [Connect on RDP](#connect-on-rdp)
   - [Shared folder](#shared-folder)
-    - [Setup a sharded folder](#setup-a-sharded-folder)
+    - [Setup a shared folder](#setup-a-shared-folder)
     - [How to connect](#how-to-connect)
   - [Game Start on boot](#game-start-on-boot)
   - [Tiny optimization](#tiny-optimization)
-- [Trobulshoting](#trobulshoting)
+- [Troubleshooting](#troubleshooting)
   - [User name (sega game)](#user-name-sega-game)
-  - [share permition](#share-permition)
+  - [share permission](#share-permission)
   - [Can't find The shared folder on Windows](#cant-find-the-shared-folder-on-windows)
 ---
 # Windows Installation 
@@ -78,7 +78,7 @@ Now we need to activate Windows. If you have a legit key, just use it. If you do
 irm https://get.activated.win | iex
 ```
 
-If you want to see wath this commande do you can check on the [Massgrave web site](https://massgrave.dev/)
+If you want to see what this command does, you can check it on the [Massgrave web site](https://massgrave.dev/)
 
 ![](WindowsArcade/activate.png)
 
@@ -126,7 +126,7 @@ Now you are connected to your arcade PC remotely!
 ---
 ## Shared folder
 Useful for updating your game without touching your arcade PC
-### Setup a sharded folder 
+### Setup a shared folder
 Right-click the folder you want to share and go to:  
 Properties > Sharing > Share > Share  
 ![](WindowsArcade/share1.png)
@@ -175,14 +175,14 @@ If you're using an HDD and it's slow, you can disable Windows Indexing and Windo
 If your game is really slow to boot, try excluding its folder from Windows Defender.
 
 ---
-# Trobulshoting
+# Troubleshooting
 Here we talk about some common issues you may encounter.
 
 ## User name (sega game)  
 Sega games don't work if your computer or local account is named like the game.  
 Don't name your PC or account: `maimai`, `Chunithm`, `Ongeki`, etc.
 
-## share permition
+## share permission
 Make sure you have allowed "read and write" access for everyone, if you're not using local account credentials.
 
 ## Can't find The shared folder on Windows
