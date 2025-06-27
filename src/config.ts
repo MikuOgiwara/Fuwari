@@ -55,7 +55,7 @@ export const navBarConfig: NavBarConfig = {
 export const profileConfig: ProfileConfig = {
 	avatar: "assets/images/pp.png", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
 	name: "Mikuwu Ogiwara",
-	bio: "Girl who love play weeb rhythm games and watch anime  o/ (maimai, chunithm, taiko, ongeki, sdvx, Diva, IIDX and vsrg) neko & yuri enjoyer Bocchi The Rock simp",
+	bio: "Girl who loves play weeb rhythm games and watch anime  o/ (maimai, chunithm, taiko, ongeki, SDVX, Diva, IIDX and VSRG) neko & yuri enjoyer Bocchi The Rock simp",
 	links: [
 		{
 			name: "Twitter",
