@@ -5,7 +5,7 @@ description: 'How I stream my Arcade Rhythm Game'
 image: 'ObsSetup/minia2.png'
 tags: ["Tech", "rhythm game", "Arcade" ]
 category: 'tech'
-draft: true 
+draft: false
 lang: 'en'
 ---
 

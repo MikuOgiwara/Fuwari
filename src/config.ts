@@ -31,7 +31,7 @@ export const siteConfig: SiteConfig = {
 	},
 	favicon: [
 		{
-			src: "favicon/bocchi.ico", // Path of the favicon, relative to the /public directory
+			src: "/favicon/bocchi.ico", // Absolute path to the favicon in /public
 		},
 	],
 };
