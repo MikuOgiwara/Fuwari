@@ -1,6 +1,6 @@
 ---
 title: 'Stream Arcade Game'
-published: 2025-06-28
+published: 2025-10-23
 description: 'How I stream my Arcade Rhythm Game'
 image: 'ObsSetup/minia2.png'
 tags: ["Tech", "rhythm game", "Arcade" ]
@@ -108,7 +108,7 @@ Example of how my OBS looks for my stream:
 
 # Additional Tips
 - On your arcade PC, hide the preview window to improve performance.  
-  ![](ObsSetup/hidep.png)
+  ![](ObsSetup/hideP.png)
 - If you want to talk with your viewers, plug a microphone into your stream PC and set it up in OBS.  
   Use headphones to avoid feedback loops.  
   Also, lower your arcade PC’s audio to balance with your mic for a better experience.
