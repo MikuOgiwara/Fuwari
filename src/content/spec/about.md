@@ -36,6 +36,10 @@ I realy love rhythm game and this I a list off game I play or have be played !
 
 I realy love rhythm game and I play so mutch *but I am bad on all lol* 
 
-# Anime
+# Weeb corner
+As a weeb ofc I love anime UwU. I can watch evrything sice is not a random shonen. I realy love Yuri, Romance, Silce of Life, Fantasy.  
+And ofc I have a [anilist page](https://anilist.co/user/Miekuwu/)!  
+I like to read some manga, and I am a yuri simp UwU. 
 # Music
+I listen to mutch music... 
 # todo
