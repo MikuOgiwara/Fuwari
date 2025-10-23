@@ -14,9 +14,9 @@ I realy love rhythm game and this I a list off game I play or have be played !
 ## Arcade game
 
 。Sound Voltex: volforce: 17, dan 10 and 8 divin.  
-。MaiMai 12K (really fun to play)  
+。MaiMai 13K (really fun to play)  
 。Chunithm 14 rating (I LOVE THIS GAME)  
-。Ongeki 16  
+。Ongeki 17  
 。Wacca ( ONLY SHIT this game have the best song track ever) (why arcade room is so far)  
 。IIDX (can play 6/8)  
 
