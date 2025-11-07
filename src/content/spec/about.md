@@ -39,7 +39,10 @@ I realy love rhythm game and I play so mutch *but I am bad on all lol*
 # Weeb corner
 As a weeb ofc I love anime UwU. I can watch evrything sice is not a random shonen. I realy love Yuri, Romance, Silce of Life, Fantasy.  
 And ofc I have a [anilist page](https://anilist.co/user/Miekuwu/)!  
-I like to read some manga, and I am a yuri simp UwU. 
+I like to read some manga, and I am a yuri simp. I have start to watching anime in 2008 but I only start to be more serious in 2012. I don't like to wait for a episode so I wait to the end of a anime to watch the season in one view lol
 # Music
-I listen to mutch music... 
+I listen to mutch music... I just a part off my life. I have Start learn music as kids. Produce and make for 15 year before stop evry thing now I am just a Music enjoyer o/
+# Nerds corner 
+ofc I still do IT stuf
+mosly I do nothing, But I like network stuf, Old dev (java,c#), I make some JS sometime. I Still love the hardware part and server part. Maybe to make a homelab in the futur ?
 # todo

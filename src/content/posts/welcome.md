@@ -3,8 +3,8 @@ title: Welcome to my Blog
 published: 2025-06-17
 description: 'short introduction'
 image: ''
-tags: [Sample]
-category: 'Other'
+tags: [personal]
+category: 'personal'
 draft: false 
 lang: 'en'
 ---
@@ -13,4 +13,5 @@ lang: 'en'
 # Hi i try to do something 
 
 
-Do you like rhythm game ?  
+Do you like rhythm game ? 
+Is just a random blog about me and my passion for rhythm game and weeb stuff. If you want to know more about me [go to about page](/Fuwari/about/) !
