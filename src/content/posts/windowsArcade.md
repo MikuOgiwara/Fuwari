@@ -14,7 +14,7 @@ lang: 'en'
 Before starting, we need some context.
 
 When you want to run an arcade game in perfect condition, you need a version of Windows with fewer services and bloat. That's why I install Windows LTSC.  
-I don't provide any game links. Dump your own data. I'm not responsible for what you do.
+**I don't provide any game links. Dump your own data. I'm not responsible for what you do.**
 
 ---
 # Preface

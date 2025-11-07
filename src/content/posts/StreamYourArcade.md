@@ -11,9 +11,9 @@ lang: 'en'
 
 # How To Stream Arcade PC
 So, after all, you want to stream your game? Show your skills and explain why *Chunithm Prism Memory* is the best game!  
-But first, disclaimer /!\ KNOW WHAT YOU’RE DOING AND WHERE YOU STREAM!  
+But first, **disclaimer /!\ KNOW WHAT YOU’RE DOING AND WHERE YOU STREAM !**  
 I’ll assume you’re playing on two PCs.  
-I don’t provide any game links — dump your own data. I’m not responsible for what you do.
+**I don’t provide any game links — dump your own data. I’m not responsible for what you do.**
 
 # Preface
 - [How To Stream Arcade PC](#how-to-stream-arcade-pc)
@@ -121,10 +121,11 @@ Example of how my OBS looks for my stream:
 - If your game lags, you can try using NDI instead of UDP stream — but you’ll need a good LAN for that.  
   (Normally it’s fine; I play on a very low-end PC and my game doesn’t lag.)  
   ![](ObsSetup/PC.png)
+  *This screen have be made wis preview enable. After Disable Cpu usage have drop to 50%*
 - If you have audio/video desync, increase the buffer size in the Media Source properties on your stream PC.
 - If you add a webcam and notice delay, apply an offset to the webcam source to sync with gameplay.
 
 # Conclusion
-If you follow this tutorial, you can now stream your arcade games easily — just like I do! ☆*: .｡. o(≧▽≦)o .｡.:*☆  
+If you follow this tutorial, you can now stream your arcade games easily just like I do! ☆*: .｡. o(≧▽≦)o .｡.:*☆  
 Maybe it’s not the perfect method, but it’s cheap and easy to set up.  
-However, if you have the budget, a capture card is still the best option!
+However, if you have the budget, a capture card is still the best option !
