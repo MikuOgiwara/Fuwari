@@ -21,7 +21,7 @@ I realy love rhythm game and this I a list off game I play or have be played !
 。IIDX (can play 6/8)  
 
 ## PC game
-
+ 
 。ADOFAI (can pass level 5/6)  
 。Muse dash (I play 7 to 11)  
 。quaver (shit support) (quit)  
@@ -46,5 +46,5 @@ I listen to mutch music... I just a part off my life. I have Start learn music a
 ofc I still do IT stuf
 mosly I do nothing, But I like network stuf, old computer stuf, computer history, Old dev (java,c#), I make some JS sometime. I Still love the hardware part and server part. Maybe to make a homelab in the futur ?  
 # Minecraft
-I start to play minecraft in 2010, and I have passe 8 years just play and do stuff on minecraft. I have made server, plugin, and a lot off things. Is a big part off my life.
+I start to play minecraft in 2010, and I have passe 8 years just to play and do stuff on minecraft. I have made server, plugin, and a lot off things. Is a big part off my life.
 # todo
