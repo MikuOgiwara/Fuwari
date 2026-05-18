@@ -15,7 +15,7 @@ I realy love rhythm game and this I a list off game I play or have be played !
 
 。Sound Voltex: volforce: 17, dan 10 and 8 divin.  
 。MaiMai 13K (really fun to play)  
-。Chunithm 14 rating (I LOVE THIS GAME)  
+。Chunithm 15 rating (I LOVE THIS GAME)  
 。Ongeki 17  
 。Wacca ( ONLY SHIT this game have the best song track ever) (why arcade room is so far)  
 。IIDX (can play 6/8)  
@@ -44,5 +44,7 @@ I like to read some manga, and I am a yuri simp. I have start to watching anime 
 I listen to mutch music... I just a part off my life. I have Start learn music as kids. Produce and make for 15 year before stop evry thing now I am just a Music enjoyer o/
 # Nerds corner 
 ofc I still do IT stuf
-mosly I do nothing, But I like network stuf, Old dev (java,c#), I make some JS sometime. I Still love the hardware part and server part. Maybe to make a homelab in the futur ?
+mosly I do nothing, But I like network stuf, old computer stuf, computer history, Old dev (java,c#), I make some JS sometime. I Still love the hardware part and server part. Maybe to make a homelab in the futur ?  
+# Minecraft
+I start to play minecraft in 2010, and I have passe 8 years just play and do stuff on minecraft. I have made server, plugin, and a lot off things. Is a big part off my life.
 # todo
