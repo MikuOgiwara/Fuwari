@@ -2,10 +2,10 @@
 title: I try iOS for one month or more?
 published: 2026-05-18
 description: 'I try iOS after 15 years on Android.'
-image: ''
+image: 'IOSTry/thumbnail.png'
 tags: [Tech, iOS, Apple, Android]
 category: 'Tech'
-draft: true
+draft: false
 lang: 'en'
 ---
 

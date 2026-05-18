@@ -2,7 +2,7 @@
 title: Welcome to my Blog
 published: 2025-06-17
 description: 'short introduction'
-image: ''
+image: 'Welcome/thumbnail.png'
 tags: [personal]
 category: 'personal'
 draft: false 
